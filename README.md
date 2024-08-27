@@ -37,8 +37,9 @@ The primary objective of this project is to understand the differences in nutrit
 - Are the items marketed as "healthy" by fast food restaurants truly comparable to those labeled similarly in grocery stores?
 - How does the nutritional content vary among different fast food chains and across various food categories?
 
-
+<div align="center">
 <img width="420" alt="Screenshot 2024-08-27 at 23 21 33" src="https://github.com/user-attachments/assets/ed0c7b2b-dbc1-4191-bb81-af51829796d4"> <img width="478" alt="Screenshot 2024-08-27 at 23 21 17" src="https://github.com/user-attachments/assets/d4f39947-2463-49a0-a724-808b5523dcb3">
+</div>
 
 <br>
 
