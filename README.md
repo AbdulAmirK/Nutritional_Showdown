@@ -90,10 +90,13 @@ Among these choices, fats - often misunderstood and unjustly vilified - hold a s
 
 
 ## Deliverables
-- Complete and clean notebook(s) containing the code, analysis, and visualizations.
-- An SQL query file
+- Complete and clean notebook(s) containing the code, analysis, and visualizations
+- Database: The exported .sql file with SQL Queries
+- Entity relationship diagram (ERD)
+- Python files
+- Jupyter notebook containing the report in full with visualizations
 - A README file with a thorough project documentation.
-- A slide deck for the project presentation.
+- A slide deck for the project presentation
 
 
 ## Contributors
