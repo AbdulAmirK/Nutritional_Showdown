@@ -37,6 +37,7 @@ The primary objective of this project is to understand the differences in nutrit
 - Are the items marketed as "healthy" by fast food restaurants truly comparable to those labeled similarly in grocery stores?
 - How does the nutritional content vary among different fast food chains and across various food categories?
 
+
 <img width="420" alt="Screenshot 2024-08-27 at 23 21 33" src="https://github.com/user-attachments/assets/ed0c7b2b-dbc1-4191-bb81-af51829796d4"> <img width="478" alt="Screenshot 2024-08-27 at 23 21 17" src="https://github.com/user-attachments/assets/d4f39947-2463-49a0-a724-808b5523dcb3">
 
 <br>
@@ -50,6 +51,7 @@ The datasets used in this project include a comprehensive collection of fast foo
 Dataset source:
 - https://www.kaggle.com/datasets/ulrikthygepedersen/fastfood-nutrition
 - https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset
+
 
 ### Inspiration
 Among these choices, fats - often misunderstood and unjustly vilified - hold a special place. Picture the golden hue of olive oil, the hearty texture of avocados, and the rich essence of nuts and seeds; these are the bearers of good health, offering monounsaturated and polyunsaturated fats that protect your heart and fuel your body with essential nutrients. Now, envision the diversity in the seafood corner, with fish like salmon and mackerel promising a bounty of omega-3s, a testament to nature's provision for our well-being. This market scene is a metaphor for the choices we make at every meal - a reminder that amidst the clamor over dietary fads and fears, a simple truth remains: the balance and quality of fats in our diet can transform our health, turning every bite into an opportunity for nourishment and every meal into a celebration of life's vitality. This inspiration draws from the earth's abundance, encouraging us to embrace the good fats as allies on our journey towards a healthier, more vibrant life.
@@ -81,7 +83,9 @@ Among these choices, fats - often misunderstood and unjustly vilified - hold a s
 - Jupyter Notebook and Google Colab: Served as the interactive environment for code execution and data exploration.
 - SQL Workbench
 
+
 ## Findings and Conclusions
+
 
 ## Deliverables
 - Complete and clean notebook(s) containing the code, analysis, and visualizations.
