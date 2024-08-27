@@ -4,6 +4,11 @@ A Nutritional Comparison Between Fast Food and Grocery Store Items
 
 
 
+<details>
+  <summary>
+   <h2>Prerequisites</h2>
+  </summary>
+
 Before this starting this project, you should have learnt about:
 
 - Data types, operators and structures
@@ -12,7 +17,6 @@ Before this starting this project, you should have learnt about:
 - Filters
 - Pandas and Numpy
 - Basic Statistics
-- SQL
  
   <br>
   <hr> 
