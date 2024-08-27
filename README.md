@@ -37,9 +37,9 @@ Before this starting this project, you should have learnt about:
 
 ## Introduction
 
-    In today's fast-paced world, the availability and convenience of fast food have made it a popular choice for many consumers. However, with rising health consciousness, there is growing concern about the nutritional quality of fast food items compared to grocery store options. This project, "Fast Food vs. Grocery Store: A Nutritional Showdown," aims to analyze and compare the nutritional content of food items from fast food restaurants and grocery stores to provide insights into their health implications.
+In today's fast-paced world, the availability and convenience of fast food have made it a popular choice for many consumers. However, with rising health consciousness, there is growing concern about the nutritional quality of fast food items compared to grocery store options. This project, "Fast Food vs. Grocery Store: A Nutritional Showdown," aims to analyze and compare the nutritional content of food items from fast food restaurants and grocery stores to provide insights into their health implications.
 
-    The primary objective of this project is to understand the differences in nutritional content between fast food and grocery store items, assess their healthiness, and provide data-driven insights to consumers who are looking to make healthier food choices. We will explore several key questions, such as:
+The primary objective of this project is to understand the differences in nutritional content between fast food and grocery store items, assess their healthiness, and provide data-driven insights to consumers who are looking to make healthier food choices. We will explore several key questions, such as:
 
 - Do fast food items generally have higher calorie and fat content than grocery store alternatives?
 - Are the items marketed as "healthy" by fast food restaurants truly comparable to those labeled similarly in grocery stores?
@@ -54,7 +54,7 @@ Before this starting this project, you should have learnt about:
 ## About the dataset
 
 ### Project Overview
-    The datasets used in this project include a comprehensive collection of fast food items with their corresponding nutritional values (calories, fat, carbohydrates, protein, etc.) and the names of the restaurants offering these items. Additionally, a second dataset includes a variety of food items commonly found in grocery stores, categorized into different groups (such as snacks, beverages, produce, etc.), with similar nutritional information.
+The datasets used in this project include a comprehensive collection of fast food items with their corresponding nutritional values (calories, fat, carbohydrates, protein, etc.) and the names of the restaurants offering these items. Additionally, a second dataset includes a variety of food items commonly found in grocery stores, categorized into different groups (such as snacks, beverages, produce, etc.), with similar nutritional information.
 
 
 ### Acknowledgements
@@ -63,26 +63,24 @@ Dataset source:
 - https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset
 
 ### Inspiration
-    Among these choices, fats - often misunderstood and unjustly vilified - hold a special place. Picture the golden hue of olive oil, the hearty texture of avocados, and the rich essence of nuts and seeds; these are the bearers of good health, offering monounsaturated and polyunsaturated fats that protect your heart and fuel your body with essential nutrients. Now, envision the diversity in the seafood corner, with fish like salmon and mackerel promising a bounty of omega-3s, a testament to nature's provision for our well-being. This market scene is a metaphor for the choices we make at every meal - a reminder that amidst the clamor over dietary fads and fears, a simple truth remains: the balance and quality of fats in our diet can transform our health, turning every bite into an opportunity for nourishment and every meal into a celebration of life's vitality. This inspiration draws from the earth's abundance, encouraging us to embrace the good fats as allies on our journey towards a healthier, more vibrant life.
+Among these choices, fats - often misunderstood and unjustly vilified - hold a special place. Picture the golden hue of olive oil, the hearty texture of avocados, and the rich essence of nuts and seeds; these are the bearers of good health, offering monounsaturated and polyunsaturated fats that protect your heart and fuel your body with essential nutrients. Now, envision the diversity in the seafood corner, with fish like salmon and mackerel promising a bounty of omega-3s, a testament to nature's provision for our well-being. This market scene is a metaphor for the choices we make at every meal - a reminder that amidst the clamor over dietary fads and fears, a simple truth remains: the balance and quality of fats in our diet can transform our health, turning every bite into an opportunity for nourishment and every meal into a celebration of life's vitality. This inspiration draws from the earth's abundance, encouraging us to embrace the good fats as allies on our journey towards a healthier, more vibrant life.
 
 ### Dataset Description
-
-restaurant: Name of the restaurant
-item: Menu item name
-calories: Total calories per serving
-cal_fat: Calories from fat
-total_fat: Fat content in grams
-sat_fat: Saturated fat in grams
-trans_fat: Trans fat in grams
-cholesterol: Cholesterol content (mg)
-sodium: Sodium content (mg)
-total_carb: Total carbohydrates (g)
-fiber: Dietary fiber content (g)
-sugar: Total sugars content (g)
-protein: Protein content (g)
-vit_a: Vitamin A (% DV)
-vit_c: Vitamin C (% DV)
-calcium: Calcium (% DV)
+- Restaurant: Name of the restaurant
+- Item: Menu item name
+- Calories: Total calories per serving
+- Total_fat: Fat content in grams
+- Sat_fat: Saturated fat in grams
+- Trans_fat: Trans fat in grams
+- Cholesterol: Cholesterol content (mg)
+- Sodium: Sodium content (mg)
+- Total_carb: Total carbohydrates (g)
+- Fiber: Dietary fiber content (g)
+- Sugar: Total sugars content (g)
+- Protein: Protein content (g)
+- Vit_A: Vitamin A (% DV)
+- Vit_C: Vitamin C (% DV)
+- Calcium: Calcium (% DV)
 
 
 ## Tools and Technologies Used
