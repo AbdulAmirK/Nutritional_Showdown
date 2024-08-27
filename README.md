@@ -3,21 +3,6 @@ A Nutritional Comparison Between Fast Food and Grocery Store Items
 <img width="654" alt="Screenshot 2024-08-27 at 23 22 18" src="https://github.com/user-attachments/assets/23cc9357-34e1-4409-bad2-8a8f51c2f2df">
 
 
-<details>
-  <summary>
-   <h2>Project Goal</h2>
-  </summary>
-
-  
-  <br>
-  <hr> 
-
-</details>
-
-<details>
-  <summary>
-   <h2>Prerequisites</h2>
-  </summary>
 
 Before this starting this project, you should have learnt about:
 
