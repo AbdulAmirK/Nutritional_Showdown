@@ -39,9 +39,6 @@ The primary objective of this project is to understand the differences in nutrit
 <br>
 
 
-
-## About the dataset
-
 ### Project Overview
 The datasets used in this project include a comprehensive collection of fast food items with their corresponding nutritional values (calories, fat, carbohydrates, protein, etc.) and the names of the restaurants offering these items. Additionally, a second dataset includes a variety of food items commonly found in grocery stores, categorized into different groups (such as snacks, beverages, produce, etc.), with similar nutritional information.
 
@@ -54,6 +51,8 @@ Dataset source:
 ### Inspiration
 Among these choices, fats - often misunderstood and unjustly vilified - hold a special place. Picture the golden hue of olive oil, the hearty texture of avocados, and the rich essence of nuts and seeds; these are the bearers of good health, offering monounsaturated and polyunsaturated fats that protect your heart and fuel your body with essential nutrients. Now, envision the diversity in the seafood corner, with fish like salmon and mackerel promising a bounty of omega-3s, a testament to nature's provision for our well-being. This market scene is a metaphor for the choices we make at every meal - a reminder that amidst the clamor over dietary fads and fears, a simple truth remains: the balance and quality of fats in our diet can transform our health, turning every bite into an opportunity for nourishment and every meal into a celebration of life's vitality. This inspiration draws from the earth's abundance, encouraging us to embrace the good fats as allies on our journey towards a healthier, more vibrant life.
 
+
+## About the dataset
 ### Dataset Description
 - Restaurant: Name of the restaurant
 - Item: Menu item name
