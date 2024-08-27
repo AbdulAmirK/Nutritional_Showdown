@@ -1,7 +1,7 @@
 # Nutritional_Showdown
 A Nutritional Comparison Between Fast Food and Grocery Store Items
 
-<div align="right">
+<div align="center">
     <img width="654" alt="Screenshot 2024-08-27 at 23 22 18" src="https://github.com/user-attachments/assets/23cc9357-34e1-4409-bad2-8a8f51c2f2df">
 </div>
 
